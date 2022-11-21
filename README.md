@@ -1,4 +1,4 @@
-By KaiSoR
+By KaiSoR#0509
 
 Tout d'abord si vous n'avez pas de système de VIP merci d'ajouter le SQL à votre BD.
 
